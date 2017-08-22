@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Man10Punishment">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../minecraft server/plugins/Man10Punishment.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
