@@ -37,9 +37,6 @@ public class SItemStack {
 
     /*
     Created By Sho in 2017/08/16 in Osaka
-
-    copyright to Sho0
-    I do not allow any use of this class with out any permission by me(Sho0)
      */
 
     public SItemStack(Material material){
